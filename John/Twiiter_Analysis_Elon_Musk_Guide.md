@@ -51,7 +51,7 @@
 
 * A 7-digit **PIN** will appear. Copy this PIN.
 
-![PIN](images/PIN.png)
+![PIN](images/PIN.PNG)
 
 * Enter the PIN at the input prompt we coded in. Hit enter.
 
