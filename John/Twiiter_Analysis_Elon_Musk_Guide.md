@@ -5,7 +5,7 @@
 
 ## Imports Needed
 
-![Imports](images/Imports.png)
+![Imports](images/Imports.PNG)
 
 * We will need the **tweepy** library installed in our environment. It is pronoucned 'twee-py'.
 
@@ -37,7 +37,7 @@
 
 * We will have all this code in jupyter notebook cell. This will handle authorizing and creating the tweepy API object needed to scrape tweets. 
 
-![Authentication_Code](Tweepy_authorize.png)
+![Authentication_Code](Tweepy_authorize.PNG)
 
 * First we need to create a callback **uniform resource indicator** to manage data returned from the API from uncommon sources. Twitter has all kinds of data-types in tweets and posted by various sources. We will set the uri to be **oob** or out-of-band value for these purposes.
 
@@ -47,7 +47,7 @@
 
 * **webbrowser** will auto-open the redirect url instead of having to copy-paste. You will see this. Click **Authorize App** button.  In order to use this website, we need to have a Twitter developer account. 
 
-![Authroize_Website](images/Authorize.png)
+![Authroize_Website](images/Authorize.PNG)
 
 * A 7-digit **PIN** will appear. Copy this PIN.
 
@@ -55,7 +55,7 @@
 
 * Enter the PIN at the input prompt we coded in. Hit enter.
 
-![Enter_PIN](images/Enter_PIN.png)
+![Enter_PIN](images/Enter_PIN.PNG)
 
 * You will see the access keys/token and secret token print out.
 
