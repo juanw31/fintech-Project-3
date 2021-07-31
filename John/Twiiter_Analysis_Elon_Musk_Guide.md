@@ -49,7 +49,7 @@
 
 ![Authroize_Website](images/Authorize.PNG)
 
-* A 7-digit **PIN** will appear. Copy this PIN.
+* A 7-digit **PIN** will appear. Copy this PIN. You'll get a new PIN every time you run the authorization cell. 
 
 ![PIN](images/PIN.PNG)
 
