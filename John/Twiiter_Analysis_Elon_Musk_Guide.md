@@ -5,7 +5,7 @@
 
 ## Imports Needed
 
-![Imports](images/Imports.png)
+![Imports](images/Imports.PNG)
 
 * We will need the **tweepy** library installed in our environment. It is pronoucned 'twee-py'.
 
@@ -37,7 +37,7 @@
 
 * We will have all this code in jupyter notebook cell. This will handle authorizing and creating the tweepy API object needed to scrape tweets. 
 
-![Authentication_Code](Tweepy_authorize.png)
+![Authentication_Code](Tweepy_authorize.PNG)
 
 * First we need to create a callback **uniform resource indicator** to manage data returned from the API from uncommon sources. Twitter has all kinds of data-types in tweets and posted by various sources. We will set the uri to be **oob** or out-of-band value for these purposes.
 
@@ -47,15 +47,15 @@
 
 * **webbrowser** will auto-open the redirect url instead of having to copy-paste. You will see this. Click **Authorize App** button.  In order to use this website, we need to have a Twitter developer account. 
 
-![Authroize_Website](images/Authorize.png)
+![Authroize_Website](images/Authorize.PNG)
 
-* A 7-digit **PIN** will appear. Copy this PIN.
+* A 7-digit **PIN** will appear. Copy this PIN. You'll get a new PIN every time you run the authorization cell. 
 
-![PIN](images/PIN.png)
+![PIN](images/PIN.PNG)
 
 * Enter the PIN at the input prompt we coded in. Hit enter.
 
-![Enter_PIN](images/Enter_PIN.png)
+![Enter_PIN](images/Enter_PIN.PNG)
 
 * You will see the access keys/token and secret token print out.
 
@@ -67,21 +67,21 @@
 
 ## Scraping Twitter
 
-![Elon_Musk](images/elon_account.png)
+![Elon_Musk](images/elon_account.PNG)
 
 * We need to set the user we want the API to look at. This the **@handle** on the Twitter account.
 
-![User](images/set_user.png)
+![User](images/set_user.PNG)
 
 * Next we need to extract that accounts' timeline of tweets.
 
-![Timeline](images/set_timeline.png)
+![Timeline](images/set_timeline.PNG)
 
 * A few things to note: Twitter only permits **20** tweets per API call. And it only fetches the most current 20 tweets on the user timeline on the **current day.** This is the **rate limit** imposed by Twitter itself.
 
 * Let's see the followers and friends count.
 
-![Followers](images/see_followers.png)
+![Followers](images/see_followers.PNG)
 
 * In Twitter, *followers* are people who follow the user account. Friends are who the user is following.
 * We want a user with lots of followers and very few friends. A high friends number indicates the account might be a bot.
@@ -90,7 +90,7 @@
 * Put all the raw tweets from the timeline into a DataFrame using an in-line for-loop to grab all the tweets.
 * Our DataFrame will only have 1 column called **Tweets**
 
-![DataFrame](images/dataframe.png)
+![DataFrame](images/dataframe.PNG)
 
 ## Cleanup
 
@@ -98,11 +98,11 @@
 
 * define a function for cleaning tweets called **clean_tweets**
 
-![Remove_Items](images/clean_tweets_.png)
+![Remove_Items](images/clean_tweets_.PNG)
 
 * Our DataFrame will look cleaner. I have no figured out how to remove emoji symbols.
 
-![Cleaned_df](images/cleaned_df.png)
+![Cleaned_df](images/cleaned_df.PNG)
 
 ## Subjectivity and Polarity
 
@@ -112,22 +112,22 @@
 
 * Define functions to pass in tweets and apply scoring functions on subjectivity and polarity. And we will add in columns to our DataFrame to reflect these scores.
 
-![Subjectivity](images/subjectivity.png)
+![Subjectivity](images/subjectivity.PNG)
 
-![Scored](images/sub_score.png)
+![Scored](images/sub_score.PNG)
 
 * Now we need to add labels to our **polarity** scores. That is labeling them positive, negative, or neutral. We'll define a function called **senitment** to pass in a tweet and measure and label its polarity score. 
 * We are only passing in the **polarity** colummn.
 
-![Sentiment](images/polarity.png)
+![Sentiment](images/polarity.PNG)
 
 * We will have a Sentiment column
 
-![Sentiment_2](images/sentiment.png)
+![Sentiment_2](images/sentiment.PNG)
 
 ## Save the Tweet data to a csv file
 
-![Save_Tweets](images/save_tweets.png)
+![Save_Tweets](images/save_tweets.PNG)
 
 
 ## Word Cloud
