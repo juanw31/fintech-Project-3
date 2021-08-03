@@ -27,7 +27,7 @@
     - Plotly express is used to create that charts for sentiment analysis and price movements.
     - Dash app is used to create a web page which can display charts on a web page and the user can interact with the chart and Dash interacts with the python code and displays the updated chart. <p>
 
-    **Test Case:**
+    **Test Case A:**
     - Amazon stock was chosen to see the impact of sentiment analysis and its impact on the stock price.
     - As we can see the sentiment chart on **08/02/21 showed an uptick** and this can be seen in the **~ 1.2% increase in the stock price on 08/03/21** <p>
 
@@ -35,4 +35,18 @@
 
     <p>
 
-    ![AmznPriceChart](Images/amznprice_t1.png)
+    ![AmznPriceChart](Images/amznprice_t1.png) <p>
+
+    **Test Case B:**
+
+    - Ford Motors stosck was chosen. 
+
+    - News reports snapshot show that the sentiment of the news chnaged from negative to positive from July 24 to July 28. 
+
+    ![Fordnews](Images/F_news.png)
+    <p>
+    
+
+    - Ford Charts also show the price increase on July 29
+
+    ![ford charts](Images/Ford_charts.png)
