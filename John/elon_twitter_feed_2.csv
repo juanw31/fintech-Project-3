@@ -1,0 +1,35 @@
+,Tweets,Subjectivity,Polarity,Sentiment
+0,: Crew-3 astronauts visited  this week for emergency preparedness training ,0.0,0.0,Neutral
+1,  Two weeks (actually),0.1,0.0,Neutral
+2,_ Yup,0.0,0.0,Neutral
+3,   A wheel of cheese,0.0,0.0,Neutral
+4,   Yes,0.0,0.0,Neutral
+5,Snatched from the sky by Mechazilla,0.0,0.0,Neutral
+6,,0.0,0.0,Neutral
+7,  Hadn’t showered in several days. We are going hardcore with Starbase Surge.,0.0,0.0,Neutral
+8,  It is pitch black. You are likely to be eaten by a grue.,0.7166666666666667,-0.08333333333333333,Negative
+9," Tesla policy is never to give in to false claims, even if we would lose, and never to fight true claims, even if we would win.",0.5499999999999999,0.25,Positve
+10," If we are wrong, we are wrong. In this case, we were.",0.9,-0.5,Negative
+11,"_southern  _cook Yeah, Liftoff is solid",0.05,0.0,Neutral
+12, !!,0.0,0.0,Neutral
+13," Indeed. Both Cook &amp; I have been clear publicly that we have never spoken or otherwise communicated. I tried to speak to him &amp; he declined. 
+
+Nor have I ever expressed any interest in running Apple to anyone. Cook is, all things considered, obviously doing an incredible job.",0.4625,0.25,Positve
+14,  He does like to play with my phone. There are many confusing videos he has taken.,0.45,0.1,Positve
+15," Sorry, accidental tap!",1.0,-0.625,Negative
+16,"  That’s arguably a security issue, but  allowing companies to use other payment options, especially for in-app purchases would be fair.
+
+As soon as they allowed that, they would have to lower their fees.
+
+As for the cost of reviewing apps for security, a fixed fee makes sense.",0.61875,0.16874999999999998,Positve
+17," Normally, competitive pressure would force Apple to lower fees, but Apple &amp; Android have a duopoly on phones. When interface familiarity is taken into account, it’s basically a monopoly. 
+
+The effective 30% sales tax Apple charges is hidden from users or there would be an outcry.",0.5944444444444444,0.19444444444444445,Positve
+18,   _cook I don’t want to be CEO of anything,0.0,0.0,Neutral
+19,  Top feature request for sure,0.6944444444444444,0.5,Positve
+20," Actually, I like &amp; use Apple products. 
+
+They are just obviously overcharging with App Store. I mean 30% fees for doing almost zero incremental work is completely unreasonable. 
+
+Epic wouldn’t bother processing their own payments if App Store fees were fair.",0.5696428571428571,0.16964285714285715,Positve
+21, GAO 💪,0.0,0.0,Neutral
