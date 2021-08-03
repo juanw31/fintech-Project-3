@@ -41,11 +41,11 @@
 
     - Ford Motors stosck was chosen. 
 
-    - News reports snapshot show that the sentiment of the news chnaged from negative to positive from July 24 to July 28. 
+    - News reports snapshot show that the sentiment of the news changed from negative to positive from July 24 to July 28. 
 
     ![Fordnews](Images/F_news.png)
     <p>
-    
+
 
     - Ford Charts also show the price increase on July 29
 
