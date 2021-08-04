@@ -21,10 +21,14 @@ period1: takes the range of the data we need ( 1d, 2d , ...) d = day
 interval1: the gap between each data (1m , 5m , 10m..) m =minuet
 MA: Moving Average (it takes any number)
 
-#date: the drop-down menu has three choices.
+date: the drop-down menu has three choices.
+
     1, yesterday: it presents yesterday's performance of the input_data ticker
+    
     2, the day before yesterday: it presents the performance of the selected stock two days ago.
+    
     3, two days ago:  it presents the performance of the selected stock two days ago.
+    
 
 
 
