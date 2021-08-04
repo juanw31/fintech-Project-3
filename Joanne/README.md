@@ -1,4 +1,4 @@
-## This part of the project, I am using machine learning(deep learning) technique called Long Short Term Memory (LSTM) to predicts the stock price. I will showing my graphs using 3 diffrent python libraries: Matplotlib, Plotly express and Dash.
+## This part of the project, I am using machine learning(deep learning) technique called Long Short Term Memory (LSTM) to predicts the stock price. I will showing the graphs using 3 diffrent python libraries: Matplotlib, Plotly express and Dash.
 ### I am using four Jupyter notebooks in this part of the project. 
 - lstm.ipynb : I am using deep learning LSTM model to predict the stock price. 
 - Dash_prep.py : I am using a define and return function to prepare for my dash code. 
