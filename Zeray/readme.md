@@ -1,4 +1,4 @@
-Your file to edit
+## DASHBOARD FOR DAY AND SWING TRADERS
 
 Dashboard is a very useful data visualization tool. We used a python module called dash to create the dashboard. We started by creating an app called stock visualization, and then we created the layout
 
