@@ -12,7 +12,7 @@ As shown above, the layout has four inputs and one dropdown menu. The first thre
 
 ![Solidity Program TiereProfitSplitter](https://github.com/juanw31/fintech-Project-3/blob/main/Zeray/CallsJPG.JPG)
 
-After we created the layout, we will specify the function of each component. As shown above, the callback function has five components as input, and the result of these five inputs/components is one output graph. 
+After we created the layout, we specified the function of each component. As shown above, the callback function has five components as input, and the result of these five inputs/components is one output graph. 
 
 ![Solidity Program TiereProfitSplitter](https://github.com/juanw31/fintech-Project-3/blob/main/Zeray/functionJPG.JPG)
 
