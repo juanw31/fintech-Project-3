@@ -46,7 +46,35 @@ date: the drop-down menu has three choices.
 
 # The final look of the dashboard
 
+
 ![Solidity Program TiereProfitSplitter](https://github.com/juanw31/fintech-Project-3/blob/main/Zeray/MainDash.JPG)
+
+All Five inputs are controlled. 
+
+Row 1 , Col 1 : 
+
+    current price for the selected symbol (example BA(The Boeing Company)
+
+Row 2 , Col 1 : 
+
+    The price of the selected stock one day ago. We can change this by selecting a different date from the dropdown menu
+
+
+Row 1 , Col 2 : 
+
+    Two weeks stock price for the selected stock/symbol
+
+Row 2 , Col 2 : 
+
+    Setiment analysis chart for the selected symbol/stock 
+
+ 1 , Col 2  and Row 2 , Col 2 shows the correlation between the price of the stocka nd the setiment analysis. 
+
+
+
+
+
+
 
 The functions we creates has five parameter 
 It has four inputs, accepts text and numbers.
