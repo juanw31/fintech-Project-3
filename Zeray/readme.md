@@ -44,7 +44,9 @@ date: the drop-down menu has three choices.
 
 
 
+# The final look of the dashboard
 
+![Solidity Program TiereProfitSplitter](https://github.com/juanw31/fintech-Project-3/blob/main/Zeray/Main Dash.JPG)
 
 The functions we creates has five parameter 
 It has four inputs, accepts text and numbers.
