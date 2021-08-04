@@ -16,10 +16,14 @@ After we created the layout, we will specify the function of each component. As 
 
 ![Solidity Program TiereProfitSplitter](https://github.com/juanw31/fintech-Project-3/blob/main/Zeray/functionJPG.JPG)
 
-Input_data: takes a stock ticker
-period1: takes the range of the data we need ( 1d, 2d , ...) d = day
-interval1: the gap between each data (1m , 5m , 10m..) m =minuet
-MA: Moving Average (it takes any number)
+Input_data: 
+    takes a stock ticker
+period1: 
+    takes the range of the data we need ( 1d, 2d , ...) d = day
+interval1: 
+    the gap between each data (1m , 5m , 10m..) m =minuet
+MA: 
+    Moving Average (it takes any number)
 
 date: the drop-down menu has three choices.
 
