@@ -73,17 +73,3 @@ Row 2 , Col 2 :
 
 
 
-
-
-
-The functions we creates has five parameter 
-It has four inputs, accepts text and numbers.
-(Symbol, period, Interval and  Moving Average)
-Symbol - ticker of the stock
-Period - how many days of stock data ( format, 1d , 2d , 3d , 1wk , 1mo)
-Interval - 
-Moving Average - 
-One dropdown.
-(Past selected stock performance)
-All Inputs are controlled. 
-
