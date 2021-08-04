@@ -16,7 +16,7 @@ After we created the layout, we will specify the function of each component. As 
 
 ![Solidity Program TiereProfitSplitter](https://github.com/juanw31/fintech-Project-3/blob/main/Zeray/functionJPG.JPG)
 
-
+The functions we creates has five parameter 
 It has four inputs, accepts text and numbers.
 (Symbol, period, Interval and  Moving Average)
 Symbol - ticker of the stock
