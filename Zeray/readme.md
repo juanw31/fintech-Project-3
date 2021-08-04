@@ -16,6 +16,20 @@ After we created the layout, we will specify the function of each component. As 
 
 ![Solidity Program TiereProfitSplitter](https://github.com/juanw31/fintech-Project-3/blob/main/Zeray/functionJPG.JPG)
 
+## Input_data: takes a stock ticker
+## period1: takes the range of the data we need ( 1d, 2d , ...) d = day
+## interval1: the gap between each data (1m , 5m , 10m..) m =minuet
+## MA: Moving Average (it takes any number)
+
+## date: the drop-down menu has three choices.
+    1, yesterday: it presents yesterday's performance of the input_data ticker
+    2, the day before yesterday: it presents the performance of the selected stock two days ago.
+    3, two days ago:  it presents the performance of the selected stock two days ago.
+
+
+
+
+
 The functions we creates has five parameter 
 It has four inputs, accepts text and numbers.
 (Symbol, period, Interval and  Moving Average)
