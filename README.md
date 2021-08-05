@@ -5,7 +5,6 @@ Dashboard is a very useful data visualization tool. We used a python module call
 ![Solidity Program TiereProfitSplitter](https://github.com/juanw31/fintech-Project-3/blob/main/Zeray/app.JPG)
 
 
-#https://github.com/juanw31/fintech-Project-3/blob/main/Zeray/Layout.JPG
 ![Solidity Program TiereProfitSplitter](https://github.com/juanw31/fintech-Project-3/blob/main/Zeray/Layout.JPG)
 
 As shown above, the layout has four inputs and one dropdown menu. The first three inputs accept text the fourth accepts only number numbers. The dropdown menu has three choices. 
