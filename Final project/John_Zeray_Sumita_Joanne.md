@@ -201,7 +201,7 @@ Row 2 , Col 2 :
 
 * You will see the access keys/token and secret token print out.
 
-![Access](Images/access_keys_2.jpg)
+![Access](Images/access_keys_2.PNG)
 
 * **NOTE:** Your access keys will not change regardless how many times you re-run this cell and get a new PIN number. The access keys are always tied to the API keys.  
 
@@ -215,7 +215,7 @@ Row 2 , Col 2 :
 
 * Define our search topic by declaring a variable and storing a '#hashtag' I chose dogecoin
 
-![DataFrame](Images/make_dataframe.png)
+![DataFrame](Images/make_dataframe.PNG)
 
 **STEP 5: CLeanup**
 
@@ -224,11 +224,11 @@ Row 2 , Col 2 :
 
 * Define an emoji script. This will be used.
 
-![Emojis](Images/emoji_reference.png)
+![Emojis](Images/emoji_reference.PNG)
 
 * Define a **clean_tweets** function to substitue out all unwanted emoji's and data-types
 
-![Cleanup](Images/clean_tweets.png)
+![Cleanup](Images/clean_tweets.PNG)
 
 **STEP 6: Subjectivity and Polarity** 
 
@@ -236,31 +236,31 @@ Row 2 , Col 2 :
 
 * Define both a subjectivity and polarity functions to apply new columns and scores of each tweet collected.
 
-![Scoring](Images/sub_pol.png)
+![Scoring](Images/sub_pol.PNG)
 
 * Add sentiment labels to the polarity scores with **positive**, **negative**, and **neutral** labels.
 
-![Sentiment](Images/sentiment2.png)
+![Sentiment](Images/sentiment2.PNG)
 
 * Final cleaned up tweets dataframe
 
-![Cleaned](Images/final_dataframe.png)
+![Cleaned](Images/final_dataframe.PNG)
 
 **STEP 6: Visualize the Sentiment in Graphs and Word Cloud**
 
 * Make a scatterplot
 
-![Scatterplot](Images/scatterplot.png)
+![Scatterplot](Images/scatterplot.PNG)
 
 * Make a plotly express pie chart
 
-![Pie_Chart](Images/pie_chart.png)
+![Pie_Chart](Images/pie_chart.PNG)
 
 * Make a word cloud
 
-![WC_Code](Images/wordcloud_code.png)
+![WC_Code](Images/wordcloud_code.PNG)
 
-![WC](Images/wordcloud.png)
+![WC](Images/wordcloud.PNG)
 
 
 
